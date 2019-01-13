@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "824488087730",
+    "firebase_url": "https://indoor-localisation-ea82c.firebaseio.com",
+    "project_id": "indoor-localisation-ea82c",
+    "storage_bucket": "indoor-localisation-ea82c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824488087730:android:eac79d44ce9d9a71",
+        "android_client_info": {
+          "package_name": "com.example.hp.indoorlocalisation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824488087730-4ia8t4k22tr87amg7va870dj0659kii3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.indoorlocalisation",
+            "certificate_hash": "cbea0f3ab147673ef896fe2cc8a90f54a496a44f"
+          }
+        },
+        {
+          "client_id": "824488087730-6tpekbj6hs2n58qkbrtae83me6fviei6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIabu0J16wu2dVMdjJvzsbmN8yHXPywC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824488087730-6tpekbj6hs2n58qkbrtae83me6fviei6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
