@@ -135,7 +135,9 @@ void Send()
 int k = 3;
 void loop()
 {
-  CreateMessage(15);
+  CreateMessage(5);
+  Send();
+  CreateMessage(6);
   Send();
 }
 
